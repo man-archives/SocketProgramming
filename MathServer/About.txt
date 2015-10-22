@@ -1,0 +1,4 @@
+Simple Math server implemented using socket programming. It can be used to perform basic math operations.
+
+1. MathServeice is a basic math interface
+2. Implementation of the MathService interface.
