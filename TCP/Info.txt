@@ -1,0 +1,5 @@
+Given files support TCP (Transmission Control Protocal) sockets. 
+TCP guarantees the delivery of packets and preserves their order on destination.
+
+Disadvantages:
+Heavy, costly performance. Sometimes not required. That's where UDP (User Datagram Protocol) comes in.
